@@ -32,6 +32,11 @@ All sightings plotted as dots, colour-coded by season. Click any dot to see spec
 
 <img width="958" height="538" alt="image" src="https://github.com/user-attachments/assets/024c649c-8741-4447-8620-70faa26b4ee0" />
 
+<img width="953" height="535" alt="image" src="https://github.com/user-attachments/assets/e63dc34e-181f-46a8-9ff6-3de9e73b5a97" />
+
+
+
+
 
 ---
 
